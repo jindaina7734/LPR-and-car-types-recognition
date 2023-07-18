@@ -37,6 +37,7 @@ Now begin with the label process:
 
 
 Then we head to training part. After trained, the model detects objects and provides bounding box coordinates for license plates:
+
 ![Screenshot 2023-07-18 205434](https://github.com/jindaina7734/LPR-and-car-types-recognition/assets/61261926/ff740ddb-ee09-4906-bba3-b79bdac54a56)
 
 
